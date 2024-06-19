@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Azad! Part time student
 
-<!--
-**AzZ-lab/AzZ-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h2>👨‍💻 Cybersecurity/Cloud Projects:</h2
 
-Here are some ideas to get you started:
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2>Certifications</h2>
+
+
+
+
+
+
