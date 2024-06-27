@@ -2,7 +2,7 @@
 
   <h2>👨‍💻 Cybersecurity/Cloud Projects:</h2
 
-- <b>Active Directory Lab</b>
+ <b>Active Directory Lab</b>
 
   <h2>Certifications</h2>
 
