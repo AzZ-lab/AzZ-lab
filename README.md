@@ -1,10 +1,10 @@
 <h1>Hi, I'm Azad! Part time student
+  
+  <h2>👨‍💻Cloud Projects:</h2
 
-  <h2>👨‍💻 Cybersecurity/Cloud Projects:</h2
+  <b></b>
 
- <b>Active Directory Lab</b>
-
-  <h2>Certifications</h2>
+  
 
 
 
