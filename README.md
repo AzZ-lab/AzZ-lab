@@ -2,9 +2,14 @@
   
  <h2>About me:</h2>
 
- Hey there! I’m a tech enthusiast just starting out on my journey into the world of IT and development. I’m driven by a curiosity for how things work and a strong desire to learn the skills that will allow me to create impactful tech solutions. My main focus right now is building a solid foundation  but I’m always exploring new areas to expand my toolkit.
+  I'm a recent graduate of the renowned Le Wagon Web Development Bootcamp, where I completed 400+ hours mastering full-stack development with HTML, CSS, JavaScript, and Ruby on Rails. My hands-on projects ranged from building and deploying dynamic web applications with       RESTful APIs and WebSockets, to integrating AI tools like OpenAI APIs for intelligent user experiences.
 
-Whether it’s a coding project, troubleshooting, or solving tech problems, I love challenges that push me to think and learn. I’m currently seeking an apprenticeship or entry-level role where I can develop my skills in a hands-on environment, contribute to real projects, and grow alongside experienced mentors. If you’re looking for a motivated team player who’s eager to dive into new tasks and bring fresh ideas, let’s connect!
+ With a background in technical operations and customer service, I've developed a strong mix of soft and technical skills—leading event setups, solving problems on the fly, and consistently performing in high-pressure environments. I’ve also launched projects using AWS     
+ (S3, Route 53), built a custom Python encryption tool, and deployed an Amazon Lex chatbot on Facebook Messenger.
+
+ Now, I’m focused on growing as a developer, contributing to impactful projects, and deepening my knowledge in DevOps, cloud infrastructure, and automation.
+
+ Let’s connect and collaborate!
   
   <h2>Tech Projects:</h2
 
